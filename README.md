@@ -1,2 +1,2 @@
 # learnyocto
-Config files for my GitHub profile.zsq
+Config files for my GitHub profile.
